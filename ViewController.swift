@@ -284,8 +284,3 @@ enum Sounds {
     case four
     case five
 }
-//                  Quote(name: "I'm Going to Go Hang Myself"),
-//                  Quote(name: "Mother Geranium"),
-//                  Quote(name: "Sweet Mystery of Life"),
-//                  Quote(name: "Donna Rose!"),
-//                  Quote(name: "Ficky")
